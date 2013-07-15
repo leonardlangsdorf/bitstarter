@@ -68,7 +68,7 @@ var checkHtmlFile = function(htmlfile, checksfile) {
 };
 
 var checkURL = function(htmlfile, checksfile) {
-  console.log(" Check URL");
+  //console.log(" Check URL");
     $ = cheerio.load(htmlfile);
     var checks = loadChecks(checksfile).sort();
     var out = {};
