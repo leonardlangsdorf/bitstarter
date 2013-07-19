@@ -1,1 +1,1 @@
-https://github.com/leonardlangsdorf/bitstarter/blob/a173e2ddecc8d6c43ecfa8abdf78a2752d8988ff/index.html
+https://raw.github.com/leonardlangsdorf/bitstarter/a173e2ddecc8d6c43ecfa8abdf78a2752d8988ff/index.html
